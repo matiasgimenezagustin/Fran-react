@@ -1,0 +1,32 @@
+.transactionCard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60vw;
+    background-color: rgb(213, 214, 216);
+    border-radius: 10px;
+    padding: 10px;
+}
+.transactionInfo{
+    display: flex;
+    align-items: center;
+    gap: 3vw;
+}
+.transactionType{
+    font-size: 56px;
+
+}
+
+.incomeBorder{
+    border: 1px solid green;
+}
+.spendBorder{
+    border: 1px solid red;
+}
+/* html{
+    font-size: 14px;
+} */
+/* Fontsize de HTML ?  */
+/* .hola{
+    font-size: 1rem;
+} */
